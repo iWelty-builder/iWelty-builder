@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 
 ![代码提交日历](https://ghchart.rshah.org/iWelty-builder)
 
-![头像](image\avatar.png)
+![avatar](image\avatar.png)
