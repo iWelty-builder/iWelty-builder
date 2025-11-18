@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-> "学海无涯" —— 一个不断学习的"学渣"
+> We can only see a short distance ahead, but we can see plenty there that needs to be done.
 
 ## 🚀 关于我
 
